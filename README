@@ -1,0 +1,15 @@
+
+Object Recognition:
+
+Assume that you are given image files which contain, either a Circle or a
+square. Develop a program which will identify whether a given file has a square or a circle
+
+
+
+
+
+Final.m --> the final version of the assignment code.
+
+The test images have been placed in the same folder as the final.m file.
+please input the name of the necessary test file in the line,
+I1 = imread('ImageName.jpg');
